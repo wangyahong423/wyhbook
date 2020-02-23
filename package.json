@@ -1,0 +1,22 @@
+{
+  "name": "wyhbook",
+  "version": "1.0.0",
+  "description": "这是由 GitBook 创建的电子书。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "wangyahong423",
+    "url": "git+https://github.com/wangyahong423/wyhbook.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wangyahong423/wyhbook/issues"
+  },
+  "homepage": "https://github.com/wangyahong423/wyhbook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
